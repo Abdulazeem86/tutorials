@@ -1,0 +1,13 @@
+*.log
+*.pot
+*.pyc
+*.media
+*.env
+__pycache__/
+*.db
+media/
+*.txt
+!requirements.txt
+venv
+staticdir/
+env
